@@ -37,4 +37,4 @@ hopefully through that create a more mature market overall.
 [4]: http://mumbrella.com.au/call-for-law-forcing-bloggers-and-journos-to-disclose-payments-and-gifts-120782 "Mumbrella"
 [5]: http://smarter.telstrabusiness.com/can-you-make-money-from-a-blog.htm "Telstra Business Blog"
 [6]: http://www.servantofchaos.com/2012/10/blog-monetisation-at-social-media-club-sydney.html "Gavin Heaton"
-[7]: http://storify.com/tiphereth/the-new-age-of-blog-monetisation?awesm=sfy.co_oASN&utm_medium=sfy.co-twitter&utm_source=t.co&utm_content=storify-pingback&utm_campaign= "Gloria Tiphereth"
+[7]: http://storify.com/tiphereth/the-new-age-of-blog-monetisation "Gloria Tiphereth"
