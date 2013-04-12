@@ -4,7 +4,7 @@ category: Media
 date: 2013-04-11
 
 **Patty Huntington**, one of Australia’s most acclaimed fashion journalists,
-is joining blog network [FELLT][1]). Huntington’s blog [Frockwriter][2], which
+is joining blog network [FELLT][1]. Huntington’s blog [Frockwriter][2], which
 was launched in 2008 and reaches 50K unique visitors each month, will be
 moved onto FELLT during May 2013.
  
