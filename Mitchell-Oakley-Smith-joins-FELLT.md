@@ -24,23 +24,24 @@ blog network reaching 400K unique visitors each month, generating 1.6M
 pageviews. FELLT is developed, owned and operated by Sydney‐based digital
 publisher Sydney Stockholm.
 
-"We are thrilled to be working with Mitchell Oakley Smith", says Daniel
-Kjellsson, co-founder of Sydney Stockholm. "Prior to launching Mr Oakley Smith
-our entire focus was on female fashion, but considering that many of our current
-advertisers also have male offerings, it's only natural that we do too.
-It has become a signature for Sydney Stockholm as a publisher and FELLT as a
-blog platform to only feature the giants; the true high-quality authorities.
-Mitchell Oakley Smith is just that."
+> "We are thrilled to be working with Mitchell Oakley Smith", says Daniel
+> Kjellsson, co-founder of Sydney Stockholm. "Prior to launching Mr Oakley Smith
+> our entire focus was on female fashion, but considering that many of our
+> current advertisers also have male offerings, it's only natural that
+> we do too. It has become a signature for Sydney Stockholm as a publisher and
+> FELLT as a blog platform to only feature the giants; the true
+> high-quality authorities. Mitchell Oakley Smith is just that."
 
-"MrOakleySmith.com provides a platform for long-form journalism - features,
-reviews, profiles and opinion pieces - across the fields of fashion, art,
-culture and design", says Mitchell Oakley Smith. "As a journalist, editor and
-author working in all areas of the visual landscape, I feel uniquely placed to
-offer readers a broad cross-section of interesting writing."
+> "MrOakleySmith.com provides a platform for long-form journalism - features,
+> reviews, profiles and opinion pieces - across the fields of fashion, art,
+> culture and design", says Mitchell Oakley Smith. "As a journalist, editor and
+> author working in all areas of the visual landscape, I feel uniquely placed to
+> offer readers a broad cross-section of interesting writing."
 
 Digital publisher Sydney Stockholm is one of the most talked‐about Australian
 start­ups of recent years; disrupting traditional media with fashion network
-FELLT, food network [Servved][servved] and advertising conglomerate The Ad Netwrk.
+FELLT, food network [Servved][servved] and advertising conglomerate
+The Ad Netwrk.
 
 Mitchell Oakley Smith also edits and publishes quarterly men's fashion journal
 Manuscript. His third book, Art &amp; Fashion in the 21st Century, co-authored
