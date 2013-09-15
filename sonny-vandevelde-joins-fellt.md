@@ -52,6 +52,6 @@ For more information and interviews:
 
 
 [frockwriter]: http://frockwriter.com
-[mroakleysmith]: http://mroakelysmith.com
+[mroakleysmith]: http://mroakleysmith.com
 [sonny]: http://sonnyphotos.com
 [servved]: http://servved.com
