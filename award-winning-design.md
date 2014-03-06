@@ -13,7 +13,7 @@ content that we neglected our own website.
 A few months ago we decided to do something about it. A few design iterations
 later we pushed the new site live. While at it, we also spent some time refining
 our branding. We maintain and develop branding for not just our own products -
-but also some of the talent we work with.
+but also a majority of the talent we work with.
 
 While building the website, we used our own technology stack; Our publishing
 platform for content (which we internally refer to as `Vialoux`), our asset
