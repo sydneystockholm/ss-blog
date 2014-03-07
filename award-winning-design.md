@@ -25,7 +25,7 @@ Needless to say, we're very happy about the result. There's something refreshing
 (and motivating) about - as they say - [eating your own dog food][2]. It didn't
 stop there though. Some of the best attributes about this thing we refer to as
 "the Internet" is that quality tends to be appreciated. Since its launch, we've
-been featured in multiple sites that showcases, judges or inspires. We're
+been featured on multiple sites that showcases, judges or inspires. We're
 extremely thankful for all words said (including were we fall short) and have
 since improved the website on multiple occasions. Here's a few: [Awwwards][5],
 [Typewolf][6], [Siteinspire][7], [爱果果][8], [Specky boy design magazine][9],
