@@ -5,7 +5,7 @@ date: 2014-05-09
 
 Sydney Stockholm, digital publisher behind Australian fashion blog network
 FELLT.com, is today donating 24 hours worth of ad space to the
-"Bring Our Girls Back" initiative.
+"Bring back our girls" initiative.
 
 Starting at noon, May 9, the entire website and all blogs will carry one ad
 only, supporting the [#bringbackourgirls][bbog] initiative.
@@ -48,3 +48,4 @@ Johan Bergström, johan@sydneystockholm.com
 [weare365]: http://weare365.com
 [mroakleysmith]: http://mroakleysmith.com
 [bbog]: https://twitter.com/hashtag/bringbackourgirls
+[change]: https://www.change.org/petitions/all-world-leaders-bring-back-nigeria-s-200-missing-school-girls-bringbackourgirls
