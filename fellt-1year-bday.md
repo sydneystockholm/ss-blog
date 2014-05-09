@@ -1,15 +1,16 @@
+---
 title: #FELLT2013 - How we grew and how we’ll grow
 author: Daniel Kjellsson
 category: FELLT
 date: 2012-12-04
-
+---
 
 FELLT is approaching its first birthday. Moving into 2013 we look back at 12
 months that sometimes felt like 12 years, sometimes 12 minutes. We’ve been
 working hard and we’ve had a blast.
 
 We set out to change blogging in Australia and we did. We had the ambition to
-change how people look at bloggers; demanding more respect for what we believe 
+change how people look at bloggers; demanding more respect for what we believe
 to be the most influential form of media – the personal one. We had the ambition
 to create an economy that gave hard working individuals the pay they deserve.
 We had the ambition to create a company and a fellowship that successfully

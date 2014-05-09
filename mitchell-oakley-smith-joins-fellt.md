@@ -1,7 +1,9 @@
+---
 title: Mitchell Oakley Smith joins FELLT
 author: Daniel Kjellsson
 category: Media
 date: 2013-08-16
+---
 
 Global-roaming journalist, editor and author Mitchell Oakley Smith is joining
 Australian blog network [FELLT][fellt]. Oakley Smith has previously held

@@ -1,7 +1,9 @@
+---
 title: Social Media Club Sydney
 author: Daniel Kjellsson
 category: Blog monetization
 date: 2012-10-09
+---
 
 Alongside
 [**Patty Huntington** (Frockwriter)][1], [**Matthew Gain** (Edelman)][2] and

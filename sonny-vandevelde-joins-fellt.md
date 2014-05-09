@@ -1,7 +1,9 @@
+---
 title: Sonny Vandevelde joins FELLT
 author: Daniel Kjellsson
 category: Media
 date: 2013-09-03
+---
 
 __FELLT__, Australia’s leading fashion blog network, continues to recruit.
 After having welcomed journalists [Patty Huntington][frockwriter] and

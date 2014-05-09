@@ -1,7 +1,9 @@
+---
 title: Australian fashion blogs support "Bring back our girls" campaign
 author: Johan Bergström
 category: FELLT
 date: 2014-05-09
+---
 
 Sydney Stockholm, digital publisher behind Australian fashion blog network
 FELLT.com, is today donating 24 hours worth of ad space to the

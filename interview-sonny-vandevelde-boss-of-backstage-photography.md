@@ -1,7 +1,9 @@
+---
 title: Interview with Sonny Vandevelde, the big boss of backstage photography
 author: Nicholas Vandepeer
 category: FELLT
 date: 2014-01-24
+---
 
 When it comes to backstage photography, no one quite compares to FELLT’s
 [**Sonny Vandevelde**][1]. His intimate coverage of fashion weeks around the

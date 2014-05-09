@@ -1,7 +1,9 @@
+---
 title: Award winning design
 author: Johan Bergström
 category: Design
 date: 2014-03-06
+---
 
 At Sydney Stockholm, we try to stick with **Dieter Ram's**
 [10 Principles of design][1]. Most often, we find ourselves removing design

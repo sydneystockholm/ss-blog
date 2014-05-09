@@ -1,7 +1,9 @@
+---
 title: Australia needs to get smart
 author: Daniel Kjellsson
 category: Media
 date: 2012-11-01
+---
 
 **Wayne Gretzky**, the greatest hockey player of all time, once said "I skate
 to where the puck is going to be, not where it has been." Since it was first
