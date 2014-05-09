@@ -44,7 +44,7 @@ Johan Bergström, johan@sydneystockholm.com
 [harperandharley]: harperandharley.com
 [zanita]: http://zanita.com.au
 [frockwriter]: http://frockwriter.com
-[sonnyphotos.com]: http://sonnyphotos.com
+[sonnyphotos]: http://sonnyphotos.com
 [weare365]: http://weare365.com
 [mroakleysmith]: http://mroakleysmith.com
 [bogb]: https://twitter.com/hashtag/bringourgirlsback
