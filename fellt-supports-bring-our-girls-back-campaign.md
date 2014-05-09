@@ -1,4 +1,4 @@
-title: Australian fashion blogs support "Bring our Girls Back" campaign
+title: Australian fashion blogs support "Bring back our girls" campaign
 author: Johan Bergström
 category: FELLT
 date: 2014-05-09
@@ -8,7 +8,7 @@ FELLT.com, is today donating 24 hours worth of ad space to the
 "Bring Our Girls Back" initiative.
 
 Starting at noon, May 9, the entire website and all blogs will carry one ad
-only, supporting the [#BringOurGirlsBack][bogb] initiative.
+only, supporting the [#bringbackourgirls][bbog] initiative.
 
 > It’s a no brainer. We were all shocked to hear about this tragedy. At
 > situations like this daily business goes out the window, we just want to do
@@ -30,12 +30,12 @@ Participating individuals, all part of the FELLT network, are:
  - Zanita Whittington, [zanita.com.au][zanita]
  - Patty Huntington, [frockwriter.com][frockwriter]
  - Sonny Vandevelde, [sonnyphotos.com][sonnyphotos]
- - Mira & Thilda Berglind. [weare365.com][weare365]
+ - Mira & Thilda Berglind, [weare365.com][weare365]
  - Mitchell Oakley Smith, [mroakleysmith.com][mroakleysmith]
 
 Digital publisher Sydney Stockholm is one of the most talked‐about Australian
 start­ups of recent years; with fashion network FELLT.com, food network
-Servved.com and dance music network Stoneyroads.com.
+Servved.com and dance music network stoneyroads.com.
 
 For more information:
 
@@ -47,4 +47,4 @@ Johan Bergström, johan@sydneystockholm.com
 [sonnyphotos]: http://sonnyphotos.com
 [weare365]: http://weare365.com
 [mroakleysmith]: http://mroakleysmith.com
-[bogb]: https://twitter.com/hashtag/bringourgirlsback
+[bbog]: https://twitter.com/hashtag/bringbackourgirls
