@@ -43,7 +43,7 @@ For more information:
 
 Johan Bergström, johan@sydneystockholm.com
 
-[harperandharley]: harperandharley.com
+[harperandharley]: http://harperandharley.com
 [zanita]: http://zanita.com.au
 [frockwriter]: http://frockwriter.com
 [sonnyphotos]: http://sonnyphotos.com
